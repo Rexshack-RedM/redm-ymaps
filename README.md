@@ -18,4 +18,4 @@
 
 # Credits:
 - qbr-core for the medic camps : https://github.com/qbcore-redm-framework
-- kibook for spooner great : https://github.com/kibook/spooner
+- kibook for spooner : https://github.com/kibook/spooner
