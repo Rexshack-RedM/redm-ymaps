@@ -21,6 +21,13 @@
             <numChildren value="0"/>
             <ambientOcclusionMultiplier value="255"/>
             <artificialAmbientOcclusion value="255"/>
+            <extensions>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_doorlocked48a</name>
+                <offsetPosition x="0.00" y="0" z="0" />
+                <Id>sisika_missing_prison_door1</Id>
+                </Item>
+            </extensions>
         </Item>
     </entities>
 </CMapData>
